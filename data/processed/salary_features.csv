@@ -1,0 +1,325 @@
+Age,Gender,Education Level,Job Title,Years of Experience,Salary,Experience_Age_Ratio,Age_Group,Experience_Group,Job_Title_Length
+32.0,Male,Bachelor's,Software Engineer,5.0,90000.0,0.15625,Early_Career,Junior,17
+28.0,Female,Master's,Data Analyst,3.0,65000.0,0.10714285714285714,Early_Career,Junior,12
+45.0,Male,PhD,Senior Manager,15.0,150000.0,0.3333333333333333,Mid_Career,Senior,14
+36.0,Female,Bachelor's,Sales Associate,7.0,60000.0,0.19444444444444445,Mid_Career,Mid,15
+52.0,Male,Master's,Director,20.0,200000.0,0.38461538461538464,Senior,Senior,8
+29.0,Male,Bachelor's,Marketing Analyst,2.0,55000.0,0.06896551724137931,Early_Career,Entry,17
+42.0,Female,Master's,Product Manager,12.0,120000.0,0.2857142857142857,Mid_Career,Senior,15
+31.0,Male,Bachelor's,Sales Manager,4.0,80000.0,0.12903225806451613,Early_Career,Junior,13
+26.0,Female,Bachelor's,Marketing Coordinator,1.0,45000.0,0.038461538461538464,Early_Career,Entry,21
+38.0,Male,PhD,Senior Scientist,10.0,110000.0,0.2631578947368421,Mid_Career,Mid,16
+29.0,Male,Master's,Software Developer,3.0,75000.0,0.10344827586206896,Early_Career,Junior,18
+48.0,Female,Bachelor's,HR Manager,18.0,140000.0,0.375,Senior,Senior,10
+35.0,Male,Bachelor's,Financial Analyst,6.0,65000.0,0.17142857142857143,Early_Career,Mid,17
+40.0,Female,Master's,Project Manager,14.0,130000.0,0.35,Mid_Career,Senior,15
+27.0,Male,Bachelor's,Customer Service Rep,2.0,40000.0,0.07407407407407407,Early_Career,Entry,20
+44.0,Male,Bachelor's,Operations Manager,16.0,125000.0,0.36363636363636365,Mid_Career,Senior,18
+33.0,Female,Master's,Marketing Manager,7.0,90000.0,0.21212121212121213,Early_Career,Mid,17
+39.0,Male,PhD,Senior Engineer,12.0,115000.0,0.3076923076923077,Mid_Career,Senior,15
+25.0,Female,Bachelor's,Data Entry Clerk,0.0,35000.0,0.0,Young,Entry,16
+51.0,Male,Bachelor's,Sales Director,22.0,180000.0,0.43137254901960786,Senior,Expert,14
+34.0,Female,Master's,Business Analyst,5.0,80000.0,0.14705882352941177,Early_Career,Junior,16
+47.0,Male,Master's,VP of Operations,19.0,190000.0,0.40425531914893614,Senior,Senior,16
+30.0,Male,Bachelor's,IT Support,2.0,50000.0,0.06666666666666667,Early_Career,Entry,10
+36.0,Female,Bachelor's,Recruiter,9.0,60000.0,0.25,Mid_Career,Mid,9
+41.0,Male,Master's,Financial Manager,13.0,140000.0,0.3170731707317073,Mid_Career,Senior,17
+28.0,Female,Bachelor's,Social Media Specialist,3.0,45000.0,0.10714285714285714,Early_Career,Junior,23
+37.0,Female,Master's,Software Manager,11.0,110000.0,0.2972972972972973,Mid_Career,Senior,16
+24.0,Male,Bachelor's,Junior Developer,1.0,40000.0,0.041666666666666664,Young,Entry,16
+43.0,Female,PhD,Senior Consultant,15.0,140000.0,0.3488372093023256,Mid_Career,Senior,17
+33.0,Male,Master's,Product Designer,6.0,90000.0,0.18181818181818182,Early_Career,Mid,16
+50.0,Male,Bachelor's,CEO,25.0,250000.0,0.5,Senior,Expert,3
+31.0,Female,Bachelor's,Accountant,4.0,55000.0,0.12903225806451613,Early_Career,Junior,10
+29.0,Male,Master's,Data Scientist,3.0,75000.0,0.10344827586206896,Early_Career,Junior,14
+39.0,Female,Bachelor's,Marketing Specialist,10.0,65000.0,0.2564102564102564,Mid_Career,Mid,20
+46.0,Male,PhD,Senior Manager,20.0,170000.0,0.43478260869565216,Senior,Senior,14
+27.0,Male,Bachelor's,Technical Writer,2.0,45000.0,0.07407407407407407,Early_Career,Entry,16
+35.0,Female,Bachelor's,HR Generalist,7.0,60000.0,0.2,Early_Career,Mid,13
+42.0,Male,Master's,Project Engineer,14.0,115000.0,0.3333333333333333,Mid_Career,Senior,16
+26.0,Female,Bachelor's,Customer Success Rep,1.0,40000.0,0.038461538461538464,Early_Career,Entry,20
+49.0,Male,Bachelor's,Sales Executive,21.0,160000.0,0.42857142857142855,Senior,Expert,15
+34.0,Female,Master's,UX Designer,5.0,80000.0,0.14705882352941177,Early_Career,Junior,11
+48.0,Male,Master's,Operations Director,18.0,190000.0,0.375,Senior,Senior,19
+30.0,Male,Bachelor's,Network Engineer,3.0,60000.0,0.1,Early_Career,Junior,16
+36.0,Female,Bachelor's,Administrative Assistant,8.0,45000.0,0.2222222222222222,Mid_Career,Mid,24
+41.0,Male,Master's,Strategy Consultant,13.0,130000.0,0.3170731707317073,Mid_Career,Senior,19
+28.0,Female,Bachelor's,Copywriter,2.0,40000.0,0.07142857142857142,Early_Career,Entry,10
+32.0,Male,Bachelor's,Account Manager,5.0,75000.0,0.15625,Early_Career,Junior,15
+45.0,Female,Master's,Director of Marketing,16.0,180000.0,0.35555555555555557,Mid_Career,Senior,21
+38.0,Male,PhD,Senior Scientist,11.0,120000.0,0.2894736842105263,Mid_Career,Senior,16
+25.0,Male,Bachelor's,Help Desk Analyst,0.0,35000.0,0.0,Young,Entry,17
+51.0,Female,Bachelor's,Customer Service Manager,22.0,130000.0,0.43137254901960786,Senior,Expert,24
+33.0,Male,Master's,Business Intelligence Analyst,7.0,85000.0,0.21212121212121213,Early_Career,Mid,29
+40.0,Female,Bachelor's,Event Coordinator,12.0,60000.0,0.3,Mid_Career,Senior,17
+47.0,Male,Master's,VP of Finance,19.0,200000.0,0.40425531914893614,Senior,Senior,13
+29.0,Female,Bachelor's,Graphic Designer,3.0,50000.0,0.10344827586206896,Early_Career,Junior,16
+36.0,Male,Bachelor's,Sales Manager,9.0,95000.0,0.25,Mid_Career,Mid,13
+27.0,Female,Master's,UX Researcher,2.0,65000.0,0.07407407407407407,Early_Career,Entry,13
+43.0,Male,PhD,Senior Engineer,17.0,140000.0,0.3953488372093023,Mid_Career,Senior,15
+30.0,Female,Bachelor's,Social Media Manager,4.0,55000.0,0.13333333333333333,Early_Career,Junior,20
+35.0,Male,Master's,Product Manager,7.0,105000.0,0.2,Early_Career,Mid,15
+51.0,Female,Master's,Director of Operations,23.0,170000.0,0.45098039215686275,Senior,Expert,22
+29.0,Male,Bachelor's,Marketing Analyst,3.0,50000.0,0.10344827586206896,Early_Career,Junior,17
+40.0,Female,Bachelor's,HR Manager,12.0,80000.0,0.3,Mid_Career,Senior,10
+47.0,Male,PhD,Senior Data Scientist,21.0,180000.0,0.44680851063829785,Senior,Expert,21
+26.0,Male,Bachelor's,Junior Accountant,1.0,35000.0,0.038461538461538464,Early_Career,Entry,17
+38.0,Female,Master's,Digital Marketing Manager,10.0,90000.0,0.2631578947368421,Mid_Career,Mid,25
+46.0,Male,Bachelor's,IT Manager,19.0,120000.0,0.41304347826086957,Senior,Senior,10
+31.0,Female,Bachelor's,Customer Service Representative,5.0,45000.0,0.16129032258064516,Early_Career,Junior,31
+34.0,Male,Master's,Business Development Manager,8.0,90000.0,0.23529411764705882,Early_Career,Mid,28
+49.0,Female,Master's,Senior Financial Analyst,18.0,150000.0,0.3673469387755102,Senior,Senior,24
+33.0,Male,Bachelor's,Web Developer,6.0,65000.0,0.18181818181818182,Early_Career,Mid,13
+39.0,Female,Bachelor's,Recruiter,11.0,70000.0,0.28205128205128205,Mid_Career,Senior,9
+45.0,Male,PhD,Research Director,16.0,190000.0,0.35555555555555557,Mid_Career,Senior,17
+28.0,Male,Bachelor's,Technical Support Specialist,2.0,40000.0,0.07142857142857142,Early_Career,Entry,28
+42.0,Female,Master's,Creative Director,14.0,120000.0,0.3333333333333333,Mid_Career,Senior,17
+37.0,Male,Bachelor's,Project Manager,10.0,95000.0,0.2702702702702703,Mid_Career,Mid,15
+50.0,Female,Bachelor's,Operations Manager,22.0,160000.0,0.44,Senior,Expert,18
+32.0,Male,Master's,Senior Software Engineer,6.0,100000.0,0.1875,Early_Career,Mid,24
+48.0,Female,Master's,Human Resources Director,20.0,180000.0,0.4166666666666667,Senior,Senior,24
+30.0,Female,Bachelor's,Content Marketing Manager,3.0,55000.0,0.1,Early_Career,Junior,25
+36.0,Male,Bachelor's,Technical Recruiter,8.0,70000.0,0.2222222222222222,Mid_Career,Mid,19
+41.0,Female,Master's,Data Analyst,13.0,80000.0,0.3170731707317073,Mid_Career,Senior,12
+25.0,Male,Bachelor's,Sales Representative,0.0,30000.0,0.0,Young,Entry,20
+52.0,Male,PhD,Chief Technology Officer,24.0,250000.0,0.46153846153846156,Senior,Expert,24
+29.0,Female,Bachelor's,Junior Designer,2.0,40000.0,0.06896551724137931,Early_Career,Entry,15
+34.0,Female,Master's,Financial Advisor,10.0,95000.0,0.29411764705882354,Early_Career,Mid,17
+27.0,Male,Bachelor's,Junior Account Manager,2.0,45000.0,0.07407407407407407,Early_Career,Entry,22
+40.0,Female,Bachelor's,HR Generalist,15.0,80000.0,0.375,Mid_Career,Senior,13
+46.0,Male,Master's,Senior Project Manager,21.0,135000.0,0.45652173913043476,Senior,Expert,22
+31.0,Female,Bachelor's,Marketing Coordinator,6.0,55000.0,0.1935483870967742,Early_Career,Mid,21
+36.0,Male,PhD,Principal Scientist,11.0,120000.0,0.3055555555555556,Mid_Career,Senior,19
+29.0,Female,Bachelor's,Sales Associate,3.0,40000.0,0.10344827586206896,Early_Career,Junior,15
+43.0,Male,Bachelor's,Supply Chain Manager,18.0,105000.0,0.4186046511627907,Mid_Career,Senior,20
+52.0,Female,Master's,Senior Marketing Manager,25.0,170000.0,0.4807692307692308,Senior,Expert,24
+33.0,Male,Bachelor's,Business Analyst,7.0,75000.0,0.21212121212121213,Early_Career,Mid,16
+39.0,Female,Bachelor's,Training Specialist,12.0,65000.0,0.3076923076923077,Mid_Career,Senior,19
+47.0,Male,PhD,Research Scientist,22.0,160000.0,0.46808510638297873,Senior,Expert,18
+26.0,Male,Bachelor's,Junior Software Developer,1.0,35000.0,0.038461538461538464,Early_Career,Entry,25
+38.0,Female,Master's,Public Relations Manager,10.0,90000.0,0.2631578947368421,Mid_Career,Mid,24
+45.0,Male,Bachelor's,Operations Analyst,20.0,110000.0,0.4444444444444444,Mid_Career,Senior,18
+31.0,Female,Bachelor's,Event Coordinator,5.0,45000.0,0.16129032258064516,Early_Career,Junior,17
+35.0,Male,Master's,Product Marketing Manager,8.0,95000.0,0.22857142857142856,Early_Career,Mid,25
+49.0,Female,Master's,Senior HR Manager,19.0,150000.0,0.3877551020408163,Senior,Senior,17
+33.0,Male,Bachelor's,Junior Web Developer,5.0,50000.0,0.15151515151515152,Early_Career,Junior,20
+39.0,Female,Master's,Senior Project Coordinator,13.0,80000.0,0.3333333333333333,Mid_Career,Senior,26
+44.0,Male,PhD,Chief Data Officer,16.0,220000.0,0.36363636363636365,Mid_Career,Senior,18
+30.0,Female,Bachelor's,Digital Content Producer,3.0,50000.0,0.1,Early_Career,Junior,24
+36.0,Male,Bachelor's,IT Support Specialist,7.0,60000.0,0.19444444444444445,Mid_Career,Mid,21
+41.0,Female,Master's,Senior Marketing Analyst,14.0,100000.0,0.34146341463414637,Mid_Career,Senior,24
+28.0,Male,Bachelor's,Customer Success Manager,2.0,40000.0,0.07142857142857142,Early_Career,Entry,24
+42.0,Female,Master's,Senior Graphic Designer,15.0,110000.0,0.35714285714285715,Mid_Career,Senior,23
+37.0,Male,Bachelor's,Software Project Manager,9.0,95000.0,0.24324324324324326,Mid_Career,Mid,24
+50.0,Female,Bachelor's,Supply Chain Analyst,22.0,130000.0,0.44,Senior,Expert,20
+32.0,Male,Master's,Senior Business Analyst,6.0,90000.0,0.1875,Early_Career,Mid,23
+23.0,Female,Bachelor's,Junior Marketing Analyst,0.5,35000.0,0.021739130434782608,Young,Entry,24
+31.0,Male,Master's,Senior Financial Analyst,6.0,95000.0,0.1935483870967742,Early_Career,Mid,24
+40.0,Female,Bachelor's,Office Manager,15.0,65000.0,0.375,Mid_Career,Senior,14
+48.0,Male,PhD,Principal Engineer,20.0,170000.0,0.4166666666666667,Senior,Senior,18
+29.0,Female,Bachelor's,Junior HR Generalist,3.0,45000.0,0.10344827586206896,Early_Career,Junior,20
+35.0,Male,Master's,Senior Product Manager,10.0,120000.0,0.2857142857142857,Early_Career,Mid,22
+42.0,Female,Bachelor's,Sales Manager,17.0,100000.0,0.40476190476190477,Mid_Career,Senior,13
+53.0,Male,Master's,Director of Marketing,25.0,180000.0,0.4716981132075472,Senior,Expert,21
+33.0,Female,Bachelor's,Junior Operations Analyst,5.0,50000.0,0.15151515151515152,Early_Career,Junior,25
+38.0,Male,Bachelor's,Customer Service Manager,11.0,80000.0,0.2894736842105263,Mid_Career,Senior,24
+44.0,Female,PhD,Senior Scientist,16.0,140000.0,0.36363636363636365,Mid_Career,Senior,16
+26.0,Male,Bachelor's,Junior Accountant,2.0,40000.0,0.07692307692307693,Early_Career,Entry,17
+37.0,Female,Master's,Senior HR Generalist,9.0,95000.0,0.24324324324324326,Mid_Career,Mid,20
+45.0,Male,Bachelor's,Sales Operations Manager,18.0,110000.0,0.4,Mid_Career,Senior,24
+32.0,Female,Bachelor's,Marketing Coordinator,4.0,50000.0,0.125,Early_Career,Junior,21
+34.0,Male,Master's,Senior Software Developer,8.0,105000.0,0.23529411764705882,Early_Career,Mid,25
+50.0,Female,Master's,Director of Operations,21.0,160000.0,0.42,Senior,Expert,22
+29.0,Male,Bachelor's,Junior Web Designer,3.0,45000.0,0.10344827586206896,Early_Career,Junior,19
+40.0,Female,Master's,Senior Training Specialist,12.0,100000.0,0.3,Mid_Career,Senior,26
+47.0,Male,PhD,Senior Research Scientist,22.0,160000.0,0.46808510638297873,Senior,Expert,25
+27.0,Male,Bachelor's,Junior Sales Representative,1.0,35000.0,0.037037037037037035,Early_Career,Entry,27
+39.0,Female,Bachelor's,Administrative Assistant,10.0,55000.0,0.2564102564102564,Mid_Career,Mid,24
+46.0,Male,Master's,Senior Project Manager,19.0,140000.0,0.41304347826086957,Senior,Senior,22
+30.0,Female,Bachelor's,Junior Marketing Manager,4.0,50000.0,0.13333333333333333,Early_Career,Junior,24
+36.0,Male,Bachelor's,Junior Data Analyst,7.0,60000.0,0.19444444444444445,Mid_Career,Mid,19
+43.0,Female,Master's,Senior Product Marketing Manager,14.0,120000.0,0.32558139534883723,Mid_Career,Senior,32
+28.0,Male,Bachelor's,Junior Business Analyst,2.0,40000.0,0.07142857142857142,Early_Career,Entry,23
+41.0,Female,Master's,Senior Marketing Manager,13.0,110000.0,0.3170731707317073,Mid_Career,Senior,24
+33.0,Male,Bachelor's,Junior Software Developer,5.0,50000.0,0.15151515151515152,Early_Career,Junior,25
+47.0,Male,Bachelor's,Senior Sales Manager,20.0,135000.0,0.425531914893617,Senior,Senior,20
+25.0,Female,Master's,Junior Marketing Specialist,1.5,40000.0,0.06,Young,Entry,27
+34.0,Male,Bachelor's,Senior Business Analyst,8.0,90000.0,0.23529411764705882,Early_Career,Mid,23
+42.0,Female,PhD,Senior Data Scientist,16.0,150000.0,0.38095238095238093,Mid_Career,Senior,21
+31.0,Male,Bachelor's,Junior Project Manager,4.0,60000.0,0.12903225806451613,Early_Career,Junior,22
+38.0,Female,Bachelor's,Senior Accountant,10.0,80000.0,0.2631578947368421,Mid_Career,Mid,17
+45.0,Male,Master's,Director of Sales,19.0,175000.0,0.4222222222222222,Mid_Career,Senior,17
+29.0,Female,Bachelor's,Junior Recruiter,3.0,45000.0,0.10344827586206896,Early_Career,Junior,16
+36.0,Male,Master's,Senior Business Development Manager,11.0,120000.0,0.3055555555555556,Mid_Career,Senior,35
+43.0,Female,PhD,Senior Product Designer,18.0,140000.0,0.4186046511627907,Mid_Career,Senior,23
+26.0,Male,Bachelor's,Junior Customer Support Specialist,2.0,35000.0,0.07692307692307693,Early_Career,Entry,34
+37.0,Female,Master's,Senior Marketing Analyst,9.0,95000.0,0.24324324324324326,Mid_Career,Mid,24
+44.0,Male,Bachelor's,Senior IT Support Specialist,14.0,110000.0,0.3181818181818182,Mid_Career,Senior,28
+32.0,Female,Bachelor's,Junior Financial Analyst,5.0,50000.0,0.15625,Early_Career,Junior,24
+33.0,Male,Master's,Senior Operations Manager,7.0,115000.0,0.21212121212121213,Early_Career,Mid,25
+51.0,Female,PhD,Director of Human Resources,23.0,185000.0,0.45098039215686275,Senior,Expert,27
+28.0,Male,Bachelor's,Junior Software Engineer,2.0,40000.0,0.07142857142857142,Early_Career,Entry,24
+39.0,Female,Bachelor's,Senior Sales Representative,12.0,90000.0,0.3076923076923077,Mid_Career,Senior,27
+48.0,Male,Master's,Director of Product Management,21.0,175000.0,0.4375,Senior,Expert,30
+30.0,Female,Bachelor's,Junior Copywriter,3.0,45000.0,0.1,Early_Career,Junior,17
+35.0,Male,Bachelor's,Senior Marketing Coordinator,7.0,80000.0,0.2,Early_Career,Mid,28
+41.0,Female,Master's,Senior Human Resources Manager,13.0,120000.0,0.3170731707317073,Mid_Career,Senior,30
+27.0,Male,Bachelor's,Junior Business Development Associate,1.5,35000.0,0.05555555555555555,Early_Career,Entry,37
+40.0,Female,Bachelor's,Senior Account Manager,14.0,110000.0,0.35,Mid_Career,Senior,22
+46.0,Male,PhD,Senior Researcher,18.0,150000.0,0.391304347826087,Senior,Senior,17
+31.0,Female,Bachelor's,Junior HR Coordinator,4.0,50000.0,0.12903225806451613,Early_Career,Junior,21
+34.0,Male,Master's,Senior Software Engineer,9.0,105000.0,0.2647058823529412,Early_Career,Mid,24
+50.0,Female,Master's,Director of Finance,20.0,180000.0,0.4,Senior,Senior,19
+29.0,Male,Bachelor's,Junior Marketing Coordinator,2.0,40000.0,0.06896551724137931,Early_Career,Entry,28
+43.0,Male,Bachelor's,Senior Project Manager,16.0,140000.0,0.37209302325581395,Mid_Career,Senior,22
+26.0,Female,Master's,Junior Data Scientist,1.5,45000.0,0.057692307692307696,Early_Career,Entry,21
+35.0,Male,Bachelor's,Senior Operations Analyst,7.0,85000.0,0.2,Early_Career,Mid,25
+42.0,Female,PhD,Senior Marketing Manager,18.0,140000.0,0.42857142857142855,Mid_Career,Senior,24
+31.0,Male,Bachelor's,Junior Accountant,4.0,50000.0,0.12903225806451613,Early_Career,Junior,17
+38.0,Female,Bachelor's,Senior Human Resources Coordinator,10.0,80000.0,0.2631578947368421,Mid_Career,Mid,34
+46.0,Male,Master's,Director of Operations,20.0,170000.0,0.43478260869565216,Senior,Senior,22
+29.0,Female,Bachelor's,Junior Sales Representative,2.0,40000.0,0.06896551724137931,Early_Career,Entry,27
+37.0,Male,Master's,Senior Business Analyst,9.0,105000.0,0.24324324324324326,Mid_Career,Mid,23
+44.0,Female,PhD,Senior UX Designer,15.0,145000.0,0.3409090909090909,Mid_Career,Senior,18
+27.0,Male,Bachelor's,Junior Product Manager,2.0,40000.0,0.07407407407407407,Early_Career,Entry,22
+36.0,Female,Bachelor's,Senior Marketing Specialist,8.0,85000.0,0.2222222222222222,Mid_Career,Mid,27
+43.0,Male,Bachelor's,Senior IT Project Manager,14.0,130000.0,0.32558139534883723,Mid_Career,Senior,25
+33.0,Female,Master's,Senior Financial Analyst,6.0,95000.0,0.18181818181818182,Early_Career,Mid,24
+34.0,Male,Bachelor's,Senior Quality Assurance Analyst,9.0,100000.0,0.2647058823529412,Early_Career,Mid,32
+50.0,Female,PhD,Director of Sales and Marketing,22.0,180000.0,0.44,Senior,Expert,31
+28.0,Male,Bachelor's,Junior Operations Analyst,1.5,35000.0,0.05357142857142857,Early_Career,Entry,25
+39.0,Female,Bachelor's,Senior Account Executive,12.0,95000.0,0.3076923076923077,Mid_Career,Senior,24
+47.0,Male,Master's,Director of Business Development,19.0,170000.0,0.40425531914893614,Senior,Senior,32
+30.0,Female,Bachelor's,Junior Social Media Manager,3.0,45000.0,0.1,Early_Career,Junior,27
+34.0,Male,Bachelor's,Senior Product Manager,7.0,95000.0,0.20588235294117646,Early_Career,Mid,22
+40.0,Female,Master's,Senior Human Resources Specialist,13.0,120000.0,0.325,Mid_Career,Senior,33
+41.0,Female,Bachelor's,Senior Marketing Coordinator,11.0,90000.0,0.2682926829268293,Mid_Career,Senior,28
+45.0,Male,PhD,Senior Data Analyst,17.0,155000.0,0.37777777777777777,Mid_Career,Senior,19
+32.0,Female,Bachelor's,Junior Account Manager,5.0,55000.0,0.15625,Early_Career,Junior,22
+35.0,Male,Master's,Senior Software Developer,9.0,110000.0,0.2571428571428571,Early_Career,Mid,25
+49.0,Female,Master's,Director of Human Capital,21.0,180000.0,0.42857142857142855,Senior,Expert,25
+30.0,Male,Bachelor's,Junior Advertising Coordinator,3.0,45000.0,0.1,Early_Career,Junior,30
+44.0,Male,Bachelor's,Senior Sales Manager,16.0,130000.0,0.36363636363636365,Mid_Career,Senior,20
+27.0,Female,Master's,Junior UX Designer,1.5,45000.0,0.05555555555555555,Early_Career,Entry,18
+36.0,Male,Bachelor's,Senior Accountant,7.0,90000.0,0.19444444444444445,Mid_Career,Mid,17
+41.0,Female,PhD,Senior Marketing Director,17.0,160000.0,0.4146341463414634,Mid_Career,Senior,25
+31.0,Male,Bachelor's,Junior HR Generalist,4.0,50000.0,0.12903225806451613,Early_Career,Junior,20
+39.0,Female,Bachelor's,Senior Operations Manager,10.0,120000.0,0.2564102564102564,Mid_Career,Mid,25
+47.0,Male,Master's,Director of Finance,20.0,170000.0,0.425531914893617,Senior,Senior,19
+30.0,Female,Bachelor's,Junior Marketing Coordinator,2.0,40000.0,0.06666666666666667,Early_Career,Entry,28
+38.0,Male,Master's,Senior IT Consultant,9.0,110000.0,0.23684210526315788,Mid_Career,Mid,20
+45.0,Female,PhD,Senior Product Designer,15.0,150000.0,0.3333333333333333,Mid_Career,Senior,23
+28.0,Male,Bachelor's,Junior Business Development Associate,2.0,40000.0,0.07142857142857142,Early_Career,Entry,37
+35.0,Female,Bachelor's,Senior Marketing Analyst,8.0,85000.0,0.22857142857142856,Early_Career,Mid,24
+44.0,Male,Bachelor's,Senior Software Engineer,14.0,130000.0,0.3181818181818182,Mid_Career,Senior,24
+34.0,Female,Master's,Senior Financial Advisor,6.0,100000.0,0.17647058823529413,Early_Career,Mid,24
+35.0,Male,Bachelor's,Senior Project Coordinator,9.0,95000.0,0.2571428571428571,Early_Career,Mid,26
+50.0,Female,PhD,Director of Operations,22.0,180000.0,0.44,Senior,Expert,22
+29.0,Male,Bachelor's,Junior Business Operations Analyst,1.5,35000.0,0.05172413793103448,Early_Career,Entry,34
+40.0,Female,Bachelor's,Senior Sales Representative,12.0,100000.0,0.3,Mid_Career,Senior,27
+48.0,Male,Master's,Director of Marketing,19.0,170000.0,0.3958333333333333,Senior,Senior,21
+31.0,Female,Bachelor's,Junior Social Media Specialist,3.0,45000.0,0.0967741935483871,Early_Career,Junior,30
+33.0,Male,Bachelor's,Senior Product Development Manager,7.0,100000.0,0.21212121212121213,Early_Career,Mid,34
+42.0,Female,Master's,Senior Human Resources Manager,13.0,140000.0,0.30952380952380953,Mid_Career,Senior,30
+28.0,Male,Bachelor's,Junior Financial Analyst,2.0,40000.0,0.07142857142857142,Early_Career,Entry,24
+40.0,Female,Bachelor's,Senior Marketing Manager,11.0,105000.0,0.275,Mid_Career,Senior,24
+46.0,Male,PhD,Senior Data Scientist,18.0,160000.0,0.391304347826087,Senior,Senior,21
+33.0,Female,Bachelor's,Junior Operations Manager,5.0,70000.0,0.15151515151515152,Early_Career,Junior,25
+37.0,Male,Master's,Senior Software Architect,9.0,120000.0,0.24324324324324326,Mid_Career,Mid,25
+51.0,Female,Master's,Director of Human Resources,21.0,190000.0,0.4117647058823529,Senior,Expert,27
+30.0,Male,Bachelor's,Junior Marketing Specialist,3.0,45000.0,0.1,Early_Career,Junior,27
+43.0,Male,Bachelor's,Senior Project Manager,15.0,120000.0,0.3488372093023256,Mid_Career,Senior,22
+27.0,Female,Master's,Junior Research Scientist,1.5,50000.0,0.05555555555555555,Early_Career,Entry,25
+35.0,Male,Bachelor's,Senior Operations Analyst,8.0,85000.0,0.22857142857142856,Early_Career,Mid,25
+42.0,Female,PhD,Senior Marketing Manager,13.0,140000.0,0.30952380952380953,Mid_Career,Senior,24
+32.0,Male,Bachelor's,Junior Sales Representative,3.0,45000.0,0.09375,Early_Career,Junior,27
+37.0,Female,Bachelor's,Senior Financial Analyst,9.0,100000.0,0.24324324324324326,Mid_Career,Mid,24
+45.0,Male,Master's,Senior Software Developer,16.0,140000.0,0.35555555555555557,Mid_Career,Senior,25
+33.0,Female,Bachelor's,Junior Operations Analyst,5.0,70000.0,0.15151515151515152,Early_Career,Junior,25
+39.0,Male,Bachelor's,Senior Marketing Specialist,10.0,120000.0,0.2564102564102564,Mid_Career,Mid,27
+44.0,Female,PhD,Senior HR Manager,18.0,160000.0,0.4090909090909091,Mid_Career,Senior,17
+29.0,Male,Bachelor's,Junior Business Analyst,1.5,40000.0,0.05172413793103448,Early_Career,Entry,23
+38.0,Female,Bachelor's,Senior Product Manager,10.0,120000.0,0.2631578947368421,Mid_Career,Mid,22
+46.0,Male,PhD,Senior Data Analyst,19.0,150000.0,0.41304347826086957,Senior,Senior,19
+34.0,Female,Bachelor's,Junior Marketing Analyst,6.0,70000.0,0.17647058823529413,Early_Career,Mid,24
+36.0,Male,Bachelor's,Senior Operations Manager,8.0,95000.0,0.2222222222222222,Mid_Career,Mid,25
+49.0,Female,Master's,Director of Marketing,21.0,180000.0,0.42857142857142855,Senior,Expert,21
+31.0,Male,Bachelor's,Junior Financial Analyst,3.0,50000.0,0.0967741935483871,Early_Career,Junior,24
+41.0,Female,Bachelor's,Senior Project Coordinator,11.0,95000.0,0.2682926829268293,Mid_Career,Senior,26
+47.0,Male,Master's,Director of Operations,20.0,170000.0,0.425531914893617,Senior,Senior,22
+29.0,Male,Bachelor's,Junior Business Operations Analyst,1.5,350.0,0.05172413793103448,Early_Career,Entry,34
+37.0,Female,Bachelor's,Senior Financial Manager,10.0,120000.0,0.2702702702702703,Mid_Career,Mid,24
+31.0,Female,Bachelor's,Junior Marketing Coordinator,3.0,50000.0,0.0967741935483871,Early_Career,Junior,28
+42.0,Male,Bachelor's,Senior Operations Manager,12.0,110000.0,0.2857142857142857,Mid_Career,Senior,25
+29.0,Female,Bachelor's,Junior Sales Representative,1.5,40000.0,0.05172413793103448,Early_Career,Entry,27
+36.0,Male,Bachelor's,Senior Marketing Specialist,8.0,95000.0,0.2222222222222222,Mid_Career,Mid,27
+44.0,Female,Master's,Senior HR Specialist,15.0,140000.0,0.3409090909090909,Mid_Career,Senior,20
+33.0,Male,Bachelor's,Junior Operations Manager,4.0,60000.0,0.12121212121212122,Early_Career,Junior,25
+39.0,Female,Bachelor's,Senior Marketing Coordinator,9.0,110000.0,0.23076923076923078,Mid_Career,Mid,28
+45.0,Male,PhD,Senior Data Engineer,16.0,150000.0,0.35555555555555557,Mid_Career,Senior,20
+32.0,Female,Bachelor's,Junior Marketing Manager,4.0,60000.0,0.125,Early_Career,Junior,24
+37.0,Male,Bachelor's,Senior Financial Analyst,8.0,90000.0,0.21621621621621623,Mid_Career,Mid,24
+47.0,Female,Master's,Director of Marketing,20.0,180000.0,0.425531914893617,Senior,Senior,21
+30.0,Male,Bachelor's,Junior Business Analyst,2.0,40000.0,0.06666666666666667,Early_Career,Entry,23
+38.0,Female,Bachelor's,Senior Project Manager,9.0,120000.0,0.23684210526315788,Mid_Career,Mid,22
+46.0,Male,PhD,Senior Data Analyst,17.0,160000.0,0.3695652173913043,Senior,Senior,19
+34.0,Female,Bachelor's,Junior Financial Analyst,5.0,70000.0,0.14705882352941177,Early_Career,Junior,24
+36.0,Male,Bachelor's,Senior Product Manager,8.0,95000.0,0.2222222222222222,Mid_Career,Mid,22
+49.0,Female,Master's,Director of Operations,21.0,180000.0,0.42857142857142855,Senior,Expert,22
+31.0,Male,Bachelor's,Junior Operations Analyst,3.0,50000.0,0.0967741935483871,Early_Career,Junior,25
+47.0,Male,Master's,Director of Marketing,19.0,170000.0,0.40425531914893614,Senior,Senior,21
+29.0,Female,Bachelor's,Junior Business Development Associate,1.5,35000.0,0.05172413793103448,Early_Career,Entry,37
+35.0,Male,Bachelor's,Senior Financial Manager,9.0,100000.0,0.2571428571428571,Early_Career,Mid,24
+44.0,Female,PhD,Senior Product Designer,15.0,150000.0,0.3409090909090909,Mid_Career,Senior,23
+33.0,Male,Bachelor's,Junior Business Analyst,4.0,60000.0,0.12121212121212122,Early_Career,Junior,23
+44.0,Male,Bachelor's,Senior Software Engineer,13.0,130000.0,0.29545454545454547,Mid_Career,Senior,24
+32.0,Male,Bachelor's,Junior Product Manager,4.0,65000.0,0.125,Early_Career,Junior,22
+38.0,Female,Bachelor's,Senior Business Analyst,10.0,110000.0,0.2631578947368421,Mid_Career,Mid,23
+49.0,Male,PhD,Director of Operations,21.0,180000.0,0.42857142857142855,Senior,Expert,22
+29.0,Female,Bachelor's,Junior Marketing Specialist,2.0,40000.0,0.06896551724137931,Early_Career,Entry,27
+35.0,Male,Bachelor's,Senior Business Development Manager,7.0,90000.0,0.2,Early_Career,Mid,35
+45.0,Female,Master's,Senior HR Manager,14.0,140000.0,0.3111111111111111,Mid_Career,Senior,17
+33.0,Male,Bachelor's,Junior Financial Analyst,4.0,60000.0,0.12121212121212122,Early_Career,Junior,24
+40.0,Female,Bachelor's,Senior Marketing Manager,12.0,130000.0,0.3,Mid_Career,Senior,24
+44.0,Male,PhD,Senior Data Scientist,16.0,160000.0,0.36363636363636365,Mid_Career,Senior,21
+30.0,Female,Bachelor's,Junior Operations Coordinator,2.0,40000.0,0.06666666666666667,Early_Career,Entry,29
+37.0,Male,Bachelor's,Senior Marketing Analyst,9.0,100000.0,0.24324324324324326,Mid_Career,Mid,24
+48.0,Female,Master's,Director of HR,20.0,180000.0,0.4166666666666667,Senior,Senior,14
+31.0,Male,Bachelor's,Junior Project Manager,3.0,55000.0,0.0967741935483871,Early_Career,Junior,22
+38.0,Female,Bachelor's,Senior Operations Coordinator,9.0,120000.0,0.23684210526315788,Mid_Career,Mid,29
+33.0,Female,Bachelor's,Junior Marketing Manager,5.0,70000.0,0.15151515151515152,Early_Career,Junior,24
+36.0,Male,Bachelor's,Senior Business Analyst,8.0,95000.0,0.2222222222222222,Mid_Career,Mid,23
+42.0,Female,Bachelor's,Senior Project Manager,12.0,120000.0,0.2857142857142857,Mid_Career,Senior,22
+34.0,Female,Master's,Senior Financial Advisor,6.0,80000.0,0.17647058823529413,Early_Career,Mid,24
+30.0,Female,Bachelor's,Junior HR Coordinator,2.0,40000.0,0.06666666666666667,Early_Career,Entry,21
+37.0,Male,Bachelor's,Senior Business Development Manager,10.0,120000.0,0.2702702702702703,Mid_Career,Mid,35
+45.0,Female,Master's,Senior Marketing Manager,16.0,160000.0,0.35555555555555557,Mid_Career,Senior,24
+32.0,Male,Bachelor's,Junior Financial Advisor,4.0,65000.0,0.125,Early_Career,Junior,24
+39.0,Female,Bachelor's,Senior Project Manager,12.0,130000.0,0.3076923076923077,Mid_Career,Senior,22
+47.0,Male,PhD,Director of Engineering,20.0,180000.0,0.425531914893617,Senior,Senior,23
+29.0,Female,Bachelor's,Junior Marketing Analyst,2.0,40000.0,0.06896551724137931,Early_Career,Entry,24
+36.0,Male,Bachelor's,Senior Operations Manager,9.0,100000.0,0.25,Mid_Career,Mid,25
+43.0,Female,PhD,Senior Data Scientist,15.0,150000.0,0.3488372093023256,Mid_Career,Senior,21
+32.0,Male,Bachelor's,Junior Marketing Coordinator,3.0,55000.0,0.09375,Early_Career,Junior,28
+48.0,Male,Master's,Director of Marketing,21.0,180000.0,0.4375,Senior,Expert,21
+31.0,Female,Bachelor's,Junior Business Development Associate,3.0,50000.0,0.0967741935483871,Early_Career,Junior,37
+40.0,Male,Bachelor's,Senior Financial Analyst,12.0,130000.0,0.3,Mid_Career,Senior,24
+45.0,Female,PhD,Senior UX Designer,16.0,160000.0,0.35555555555555557,Mid_Career,Senior,18
+33.0,Male,Bachelor's,Junior Product Manager,4.0,60000.0,0.12121212121212122,Early_Career,Junior,22
+36.0,Female,Bachelor's,Senior Marketing Manager,8.0,95000.0,0.2222222222222222,Mid_Career,Mid,24
+47.0,Male,Master's,Director of Operations,19.0,170000.0,0.40425531914893614,Senior,Senior,22
+29.0,Female,Bachelor's,Junior Project Manager,2.0,40000.0,0.06896551724137931,Early_Career,Entry,22
+34.0,Male,Bachelor's,Senior Operations Coordinator,7.0,90000.0,0.20588235294117646,Early_Career,Mid,29
+44.0,Female,PhD,Senior Business Analyst,15.0,150000.0,0.3409090909090909,Mid_Career,Senior,23
+33.0,Male,Bachelor's,Junior Marketing Specialist,5.0,70000.0,0.15151515151515152,Early_Career,Junior,27
+35.0,Female,Bachelor's,Senior Financial Manager,8.0,90000.0,0.22857142857142856,Early_Career,Mid,24
+43.0,Male,Master's,Director of Marketing,18.0,170000.0,0.4186046511627907,Mid_Career,Senior,21
+31.0,Female,Bachelor's,Junior Financial Analyst,3.0,50000.0,0.0967741935483871,Early_Career,Junior,24
+41.0,Male,Bachelor's,Senior Product Manager,14.0,150000.0,0.34146341463414637,Mid_Career,Senior,22
+44.0,Female,PhD,Senior Data Engineer,16.0,160000.0,0.36363636363636365,Mid_Career,Senior,20
+45.0,Male,Master's,Director of Engineering,19.0,180000.0,0.4222222222222222,Mid_Career,Senior,23
+28.0,Female,Bachelor's,Junior Operations Manager,1.0,35000.0,0.03571428571428571,Early_Career,Entry,25
+36.0,Male,Bachelor's,Senior Business Development Manager,8.0,110000.0,0.2222222222222222,Mid_Career,Mid,35
+44.0,Female,PhD,Senior Data Scientist,16.0,160000.0,0.36363636363636365,Mid_Career,Senior,21
+31.0,Male,Bachelor's,Junior Marketing Coordinator,3.0,55000.0,0.0967741935483871,Early_Career,Junior,28
+43.0,Male,Master's,Director of Operations,19.0,170000.0,0.4418604651162791,Mid_Career,Senior,22
